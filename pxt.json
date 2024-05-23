@@ -1,0 +1,24 @@
+{
+    "name": "runRRO2024J",
+    "description": "",
+    "dependencies": {
+        "ev3": "*",
+        "Promrobo21": "github:THEb0nny/makecode-ev3-promrobo21#v1.5.73"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.41",
+        "targetId": "ev3"
+    },
+    "supportedTargets": [
+        "ev3"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
